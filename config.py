@@ -12,7 +12,7 @@ TG_PROXY = (
 )  # {"scheme": â€socks5â€, "hostname": â€â€, "port": 1234, "username": â€userâ€, "password": â€passâ€}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
-AUTHORIZED_CHATS = ""
+AUTHORIZED_CHATS = "-1002005337367"
 SUDO_USERS = ""
 STATUS_LIMIT = 10
 DEFAULT_UPLOAD = "rc"
@@ -168,7 +168,7 @@ LEECH_CAPTION = ""
 THUMBNAIL_LAYOUT = ""
 
 # Log Channels
-LEECH_DUMP_CHAT = ""
+LEECH_DUMP_CHAT = "-1003419294094"
 LINKS_LOG_ID = ""
 MIRROR_LOG_ID = ""
 
