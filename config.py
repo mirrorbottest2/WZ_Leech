@@ -1,5 +1,5 @@
 # REQUIRED CONFIG
-BOT_TOKEN = "5022314090:AAE0kGdRavkXzg-YmxxDWCpTObhN5S8Cir0"
+BOT_TOKEN = "5073917997:AAHP_5IYTdYxMC2pqSXxKjVrJYIafu3R7Jk"
 OWNER_ID = 680745190
 TELEGRAM_API = 2175637
 TELEGRAM_HASH = "3768f77fa58f2ac3ab5e72f7bfa6df34"
@@ -150,7 +150,7 @@ USENET_SERVERS = [
 ]
 
 # Update
-UPSTREAM_REPO = "http://github.com/mirrorbottest2/WZ_09_Nov_25/"
+UPSTREAM_REPO = "http://github.com/mirrorbottest2/WZ_Leech"
 UPSTREAM_BRANCH = "wzv3"
 UPDATE_PKGS = True
 
