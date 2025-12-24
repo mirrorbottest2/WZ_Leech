@@ -175,7 +175,7 @@ MIRROR_LOG_ID = ""
 # qBittorrent/Aria2c
 TORRENT_TIMEOUT = 90000
 #BASE_URL = "https://popular-rachel-twisted-fairy-94093a16.koyeb.app/"
-BASE_URL = "http://arrogant-frederica-testarthav69-41482dbe.koyeb.app/"
+BASE_URL = "http://printed-aurel-natashalikebbc-5bb1542d.koyeb.app/"
 BASE_URL_PORT = 80
 WEB_PINCODE = False
 
